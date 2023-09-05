@@ -1,0 +1,22 @@
+body{
+    background-color: #212529;
+}
+h1, h2{
+    text-align: center;
+}
+#presentation {
+    margin: 10%;
+}
+.card{
+    background-color: #121518;
+    color: aliceblue;
+    border-color: rgba(240, 248, 255, 0.18);
+    box-shadow: 4px 4px 12px #0a0a0a,
+    -4px -4px 12px #3f3f3f;
+}
+.card-body{
+    text-align: center;
+}
+p{
+    color: rgb(177, 189, 198);
+}
